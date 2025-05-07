@@ -94,9 +94,9 @@ a:link, a:visited, a:active, div .left a {
 }
 
 h1 {
-	color: #ffffff;
-	text-shadow: 0 0 3px black;
-	font-size: 28px;
+	color: #fcf7bc;
+	text-shadow: 0 0 3px rgb(226, 185, 0);
+	font-size: 40px;
 	text-align: center;
     font-family: BreadTag;
 }
@@ -396,7 +396,7 @@ ul.toplinks {
     color: #b5d8f5;
 }
 .breadcrumb::after {
-	content: " CSS BY NINQUE (#106221) ";
+	content: " CSS BY NINQUE (#106221) (Edited by Me all code credit goes to NINQUE)";
 	position: absolute;
 	right: 18%;
 	padding-top: 2px;
