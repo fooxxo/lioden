@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400&display=swap');
 
+@font-face{
+    font-family: BreadTag;
+    src: url('Occlupanidfont2-Regular.ttf');
+  }
+
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -93,6 +98,7 @@ h1 {
 	text-shadow: 0 0 3px black;
 	font-size: 28px;
 	text-align: center;
+    font-family: BreadTag;
 }
 h1 small, h2 small, h3 small, h4 small, h5 small, h6 small, 
 .h1 small, .h2 small, .h3 small, .h4 small, .h5 small, .h6 small, 
